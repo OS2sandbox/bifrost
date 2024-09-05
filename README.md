@@ -1,12 +1,5 @@
-# OS2projekt
+# SkoleHub
 
-This is a template repository describing best practice when creating Open Source projects in OS2.
+🇩🇰 SkoleHub: Open Source Digitale Studieadministration
 
-The readme file must contain a description of the project and references to other documents in the project.
-
-## Inspired by
-
-Example content is inspired by other projects:
-
-* [The Standard for Public Code](https://standard.publiccode.net/)
-* [Open Zaak](https://github.com/open-zaak/)
+Project home for exploring and defining an Open Source alternative to digital student administration.
