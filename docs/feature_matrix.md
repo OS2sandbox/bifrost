@@ -1,6 +1,6 @@
 # Feature matrix
 
-Simple feature comparision matrix (:denmark: in danish) for a selection of study administration systems.
+Simple feature comparision matrix in danish for a selection of study administration systems.
 
 | Funktion                       | Moodle | Lectio | OpenSIS | Fedena |
 |--------------------------------|--------|--------|---------|--------|
